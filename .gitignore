@@ -1,1 +1,5 @@
 *.un~*
+feedzilla.json
+slashdot.xml
+article.csv
+articles.xlsx
